@@ -35,7 +35,7 @@
 🤘 𝙸'𝚖 𝚊 T𝚎𝚌𝚑𝚗𝚒𝚌-N𝚎𝚛𝚍 𝚏𝚛𝚘𝚖 𝙶𝚎𝚛𝚖𝚊𝚗𝚢.<br>
 🎓 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚗𝚍 𝙴𝚕𝚎𝚌𝚝𝚛𝚘-𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚒𝚊𝚗 𝚠𝚒𝚝𝚑 𝟸0 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎.
 
-<div style="width: 85vw">
+<div style="width: 100vw">
     <img align='right' src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="230" alt="Beavis">
 </div>
 
