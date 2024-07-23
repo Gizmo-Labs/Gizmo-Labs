@@ -7,7 +7,6 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Gizmo-Labs?label=Follower&style=social"/></a>
 &nbsp;&nbsp;
-<img src="https://vbr.wocr.tk/badge?page_id=Gizmo-Labs.Gizmo-Labs&lcolor=fff&color=000&style=social&logo=Github&logoColor=181717&hit=false&text=Visitors">
 </div>
 
 <div>
